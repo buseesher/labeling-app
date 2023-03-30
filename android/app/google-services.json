@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243797318750",
+    "project_id": "veritestapp5",
+    "storage_bucket": "veritestapp5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243797318750:android:2edf3c4a42489d1e64e8cf",
+        "android_client_info": {
+          "package_name": "com.example.veritestapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243797318750-fpj49m1024vica5rfsnsgm5u1jpbkbvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1BoM2R-MfT8f6P6QYO-QAP_gKFS867k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243797318750-fpj49m1024vica5rfsnsgm5u1jpbkbvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
