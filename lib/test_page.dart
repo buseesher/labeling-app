@@ -217,11 +217,6 @@ class _TestPageState extends State<TestPage> {
 
 
 
-
-
-
-
-
 /* // resim hizalanması denemesi1 -istediğim gibi olmadı-
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -446,8 +441,6 @@ class _TestPageState extends State<TestPage> {
     );
   }
 } */
-
-
 
 
 /* import 'package:flutter/material.dart';
