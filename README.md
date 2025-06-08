@@ -57,13 +57,15 @@
 This app includes a basic widget test located in test/widget_test.dart.
 
 Run tests with:
-    ```bash
-  flutter run
+  ```bash
+ flutter run
+  ```
     
 ---
 ## 📁 Project Structure
-       ```bash
-     lib/
+
+```bash
+  lib/
     ├── firebase_options.dart      # Firebase configuration
     ├── home.dart                  # Google Sign-In screen
     ├── main.dart                  # App entry point
@@ -71,7 +73,7 @@ Run tests with:
     ├── test_page.dart             # Image labeling interface
     assets/
     ├── google.png                 # Google sign-in icon
-    ├── screenshots/               # App screenshots (optional)
+  ```
 
 ---
 ## 🤝 Contributing
